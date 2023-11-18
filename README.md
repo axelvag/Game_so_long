@@ -52,11 +52,5 @@ All of the commands should be run in the root of the directory.<br>
 - compile with `make all`
 - run the game with `./so_long maps/final.ber`
 
-This is how the game looks for the map1.ber.<br>
-<img src="images/example.png" width="400"/><br>
-
-This is what will be written in the terminal during the game when you successfully win the game.<br>
-<img src="images/terminal_win.png" width="400"/><br>
-
-This is what will be written in the terminal if you give up by closing the game by pressing `ESC` or clicking the red cross.<br>
-<img src="images/terminal_give_up.png" width="400"/><br>
+This is how the game looks.<br>
+<img src="game_img/result.png" width="400"/><br>
