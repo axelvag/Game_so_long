@@ -52,6 +52,6 @@ All the visualization is done with the help of the [MiniLibX library](https://gi
 ## How to run the game
 
 All of the commands should be run in the root of the directory.<br>
-- compile with `make all`
+- compile with `make`
 - run the game with `./so_long maps/final.ber`
 
