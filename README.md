@@ -1,5 +1,8 @@
 # so_long
 
+This is how the game looks.<br>
+<img src="game_img/result.png" width="400"/><br>
+
 ## Explanation of the project
 
 This projects goal is to create your own 2D game where you have a map that can have different dimensions and contents.<br>
@@ -52,5 +55,3 @@ All of the commands should be run in the root of the directory.<br>
 - compile with `make all`
 - run the game with `./so_long maps/final.ber`
 
-This is how the game looks.<br>
-<img src="game_img/result.png" width="400"/><br>
