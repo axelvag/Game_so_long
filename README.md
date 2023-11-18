@@ -24,7 +24,7 @@ A valid map is structured as followed:<br>
   * `C`
   * `1`
   * `0`
-- i.e. `map1.ber`:
+- maps in /maps/ `final.ber` or 'map.ber' :
 - one new line after the map is valid, if there is anything else, it is not valid
 
 ```
@@ -50,7 +50,7 @@ All the visualization is done with the help of the [MiniLibX library](https://gi
 
 All of the commands should be run in the root of the directory.<br>
 - compile with `make all`
-- run the game with `./so_long maps/map1.ber`
+- run the game with `./so_long maps/final.ber`
 
 This is how the game looks for the map1.ber.<br>
 <img src="images/example.png" width="400"/><br>
