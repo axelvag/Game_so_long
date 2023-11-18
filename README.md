@@ -47,7 +47,7 @@ The player can only exit if all collectibles are collected.<br>
 The amount of movements is counted and displayed in the terminal.<br>
 Every try to move even if it is invalid will be counted as one move.<br>
 
-All the visualization is done with the help of the [MiniLibX library](https://harm-smits.github.io/42docs/libs/minilibx/").<br>
+All the visualization is done with the help of the [MiniLibX library](https://axelvag/so_long/minilibx_linux/").<br>
 
 ## How to run the game
 
