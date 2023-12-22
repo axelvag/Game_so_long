@@ -50,6 +50,13 @@ Every try to move even if it is invalid will be counted as one move.<br>
 All the visualization is done with the help of the MiniLibX library.<br>
 > 42 Doc Site: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Game_so_long
+```
+
 ## How to run the game
 
 All of the commands should be run in the root of the directory.<br>
